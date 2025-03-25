@@ -2,7 +2,7 @@
 ## **Projekt Biuro Podróży ,,Last Minute"**
 
 **Autorzy:**\
-**Kapitan zespołu - ** *Szymon Olejnik*,\
+**Kapitan zespołu -** *Szymon Olejnik*,\
 *Wiktor Krasiński*
 
 

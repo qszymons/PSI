@@ -1,7 +1,7 @@
 # **PSI**
 ## **Projekt Biuro Podróży ,,Last Minute"**
 
-**Kapitan zespołu:** *Szymon Olejnik*,
+**Kapitan zespołu:** *Szymon Olejnik*,\
 *Wiktor Krasiński*
 
 > [!IMPORTANT]
